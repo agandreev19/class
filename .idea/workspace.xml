@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ccffbf12-e1f9-4944-a79c-3f4166a0ad8f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Animal.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/bicycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +47,7 @@
       <option name="presentableId" value="Default" />
       <updated>1666172296802</updated>
       <workItem from="1666172299045" duration="3259000" />
-      <workItem from="1666674274477" duration="1835000" />
+      <workItem from="1666674274477" duration="2011000" />
     </task>
     <task id="LOCAL-00001" summary="add">
       <created>1666172992802</created>
@@ -67,7 +63,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666174913756</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add lamp">
+      <created>1666678608213</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666678608213</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
